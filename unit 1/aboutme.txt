@@ -1,2 +1,34 @@
 Jeremy Williams 
-coding 1
+coding 1 Ian Kimble.
+
+About Me Activity: Part 1
+
+Please copy and paste the questions below and answer them in 
+the aboutme.txt file we created a few days ago. When your finish, submit
+your activity by using the source control button. Remember: before you 
+can successfully submit your work you need to provide a comment/ description
+in the text box in soucre control to submit your work. 
+
+
+
+1. In a 3-4 sentences, please tell me about yourself. What are your hobbies outside of school.  
+my name is jeremy i am 15 my birthday is september 9th.i like to play game i like to learn new things. and outside of school i like to eat, sleep, watch movies ang go outside
+2. Do you have someone in your network of family and friends that works in tech? If yes, please
+describe what they do and how you are connected to them. no i dont have any family and friends that works in tech
+
+3. Do you plan on attending college? If yes, what are you interested in studying 
+(if you know you want to got to college, but unsure of what you want to study, thats alright.)
+i want to attend college but i dont know what i want to study yet
+4. In your own words, what do you think will be the hardest thing about learning coding?
+i think the hardest things in codin will be the projects or like making video games or websites 
+5. Bonus:
+Do you watch the NFL? If yes, who is your favorite team, and what will your teams record
+be at the end of the season? yes i use to watch the NFL alot my favorite team was seahawks and the ravens because of marshawn lance and i dont know  
+
+About Me Activity: Part 2
+
+Once you have completed the first part of this activity, please use the following
+link below to complete the course kickoff survey. 
+
+Survey link:
+https://forms.gle/HCLfdGwUqoz1smjW9
